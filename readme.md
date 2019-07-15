@@ -1,0 +1,5 @@
+本项目主要是学习tensorflow，用于入门。
+
+结合labelImg和raccoon_dataset进行样本图片的处理。
+
+开发一个基于树莓派和tensorflow的可以识别人脸的智能小车。只有小车的主人才能进行小车的一系列操作。
